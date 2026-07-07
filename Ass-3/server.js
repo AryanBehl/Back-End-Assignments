@@ -5,7 +5,7 @@ const PORT = 3000;
 
 app.use(express.json());
 
-const MONGO_URI = "mongodb+srv://Aryan:aryanbehl%402006@cluster0.x8eqkxb.mongodb.net/?appName=Cluster0";
+
 
 mongoose.connect(MONGO_URI)
     .then(() => {
