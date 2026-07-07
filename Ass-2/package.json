@@ -1,0 +1,15 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "CRUD with MVC Architecture using array of student objects",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Aryan Behl",
+  "license": "ISC"
+}
